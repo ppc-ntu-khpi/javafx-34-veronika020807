@@ -12,11 +12,9 @@
 - [Репозиторій](https://github.com/liketaurus/OOP-JAVA) з классами з усіх попередніх лаб (завдання 'Banking')
 
 ## На "трійку" 
-![на 3](https://github.com/user-attachments/assets/39157410-cdb4-44f4-a588-e163dce5872d)
+![4 (1)](https://github.com/user-attachments/assets/a54af142-519c-40b9-a8f0-892bcc5a5371)
 
 ## На "чотири"
-![4 (1)](https://github.com/user-attachments/assets/fd10eda7-c08e-4616-9b87-e85192167b33)
-
 ![4 (2)](https://github.com/user-attachments/assets/fa4bdbf2-acd3-453f-a65f-53e31d8d564c)
 
 ![4 (3)](https://github.com/user-attachments/assets/9741bb0e-cc34-489e-ab1e-e3ee25155947)
